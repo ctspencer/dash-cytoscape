@@ -1,6 +1,10 @@
-biopython
-gunicorn
-plotly
-dash==0.39.0
-
+chromedriver-binary
+dash>=0.38.0
+ipdb
+percy
+selenium
+flake8
+pylint
+pytest-dash>=2.1.1
 colour==0.1.5
+biopython
